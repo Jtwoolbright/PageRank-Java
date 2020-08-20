@@ -1,3 +1,8 @@
+# Summary
+    The goal of this project was to implement a PageRank algorithm that determined the most important subreddits
+    on reddit through link analysis. See https://www.geeksforgeeks.org/page-rank-algorithm-implementation/ for 
+    more details.
+    
 ## Requirements
     JDK 1.8 or above must be installed
     JDK bin set as PATH
